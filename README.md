@@ -125,4 +125,5 @@ Wellness-Insights-and-Activity-Metrics/
 
 **Adnan Khan Pathan**  
 [LinkedIn](https://www.linkedin.com/in/adnan-khan-pathan/)
-[Gmail](adnannkhan.pathan@gmail.com)
+
+[Gmail] (adnannkhan.pathan@gmail.com)
